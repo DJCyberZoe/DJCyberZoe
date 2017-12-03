@@ -1,1 +1,1 @@
-echo worker: python run.py > Procfile
+echo worker: python runbot.bat
