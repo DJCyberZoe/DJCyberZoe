@@ -1,1 +1,1 @@
-worker python DJCyberZoe.py
+worker: python bot.py
