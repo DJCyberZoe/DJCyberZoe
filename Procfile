@@ -1,1 +1,1 @@
-echo worker: python runbot.bat
+@echo worker python runbot.bat
